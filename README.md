@@ -54,6 +54,12 @@ I’m constantly learning new technologies and improving my skills to stay align
 
 ---
 
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/mohammadsaeedii/mohammadsaeedii/blob/output/github-contribution-grid-snake-dark.svg)
+
+---
+
 ## ✨ Developer Quote
 
 > “Code is not just syntax — it's creativity, logic, and experience combined together.”
