@@ -62,7 +62,9 @@ I’m constantly learning new technologies and improving my skills to stay align
 
 ## ✨ Developer Quote
 
-> “Code is not just syntax — it's creativity, logic, and experience combined together.”
+> *“Code is not just syntax — it's creativity, logic, and experience combined together.”*
+>
+> — Mohammad Saeedi
 
 ---
 
