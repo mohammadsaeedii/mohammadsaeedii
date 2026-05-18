@@ -42,7 +42,7 @@ I’m constantly learning new technologies and improving my skills to stay align
 
 ![](https://github-readme-stats.vercel.app/api?username=mohammadsaeedii\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
 
-![](https://nirzak-streak-stats.vercel.app/?user=mohammadsaeedii\&theme=tokyonight\&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohammadsaeedii\&theme=tokyonight\&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsaeedii\&theme=tokyonight\&hide_border=true\&layout=compact)
 
