@@ -1,10 +1,10 @@
-<h1 align="center">🌌 Mohammad Saeedi</h1>
-<h3 align="center">Dark Purple Neon · Tokyo Night</h3>
+<h1 align="center">Mohammad Saeedi</h1>
+<p align="center"><strong>Front-End Developer</strong> · React · Next.js · JavaScript</p>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammad+Saeedi;Front-End+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+JavaScript;Building+modern+%26+user-friendly+apps"
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=520&lines=Front-End+Developer;React+%2B+Next.js+product+UIs;Shipping+tested%2C+deployable+web+apps"
       alt="Typing animation"
     />
   </a>
@@ -12,89 +12,86 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
-Hi there 👋  
-I'm a passionate **Front-End Developer** with over one year of professional experience building responsive, modern, and user-friendly web applications. I enjoy turning creative ideas into clean digital experiences with a strong focus on **performance**, **usability**, and **design**.
+Front-end developer with **1+ year** of professional experience building production web applications with **React** and **Next.js**.
 
-I'm always learning, solving problems, and building interfaces people love to use.
+I focus on **component-driven UIs**, **REST API integration** (Node.js / NestJS), and shipping features with **Vitest** coverage on critical paths. I care about readable code, responsive layouts, and deployments that are straightforward to maintain on **Vercel**.
+
+**Currently:** Strengthening Next.js patterns, backend collaboration with NestJS, and publishing more project case studies on GitHub.
+
+**Open to:** Front-end roles and freelance collaborations (remote-friendly).
 
 ---
 
-## 🌐 Connect
+## Featured Projects
+
+<!-- Replace titles, descriptions, stacks, and links with your real repositories -->
+
+### Project Name — short tagline
+
+One sentence on the **problem** and who it’s for.
+
+- **Stack:** React · Next.js · TypeScript · NestJS · Vercel
+- **Highlights:** e.g. auth flow, dashboard, API integration, Vitest on core flows, deployed to production
+- **Links:** [Live Demo](https://your-demo-url.com) · [Repository](https://github.com/mohammadsaeedii/your-repo)
+
+### Project Name — short tagline
+
+One sentence on what you built and your ownership (solo / team / role).
+
+- **Stack:** React · Node.js · Docker · …
+- **Highlights:** e.g. performance improvement, accessibility, CI, or measurable outcome
+- **Links:** [Live Demo](https://your-demo-url.com) · [Repository](https://github.com/mohammadsaeedii/your-repo)
+
+---
+
+## Skills
+
+**Core (daily use)**  
+React · Next.js · JavaScript · CSS · Git · REST APIs
+
+**Backend & platform**  
+Node.js · NestJS · Docker · Vercel
+
+**Quality**  
+Vitest · component testing · debugging production issues
+
+**Secondary**  
+Python
 
 <p align="center">
-  <a href="https://instagram.com/mamadsaeedii">
-    <img src="https://img.shields.io/badge/Instagram-9D4EDD?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
+  <img
+    src="https://skillicons.dev/icons?i=js,react,next,css,nodejs,nest,vitest,vercel,git&perline=4&theme=dark"
+    alt="Core stack"
+  />
+</p>
+
+---
+
+## Connect
+
+<p align="center">
   <a href="https://linkedin.com/in/mohammadsaeedi">
     <img src="https://img.shields.io/badge/LinkedIn-BB86FC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mamadsaeedi2005@gmail.com">
     <img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
-
----
-
-## 🛠️ Skills
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img
-      src="https://skillicons.dev/icons?i=js,react,next,css,nodejs,nest,docker,py,vitest,vercel,git&perline=5&theme=dark"
-      alt="Skill icons"
-    />
+  <a href="https://instagram.com/mamadsaeedii">
+    <img src="https://img.shields.io/badge/Instagram-9D4EDD?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
 ---
 
-## 📊 GitHub Streak
+## Languages
 
-<p align="center">
-  <img
-    height="180em"
-    src="https://streak-stats.demolab.com?user=mohammadsaeedii&theme=tokyonight&hide_border=true&background=1a1b27&fire=BB86FC&ring=9D4EDD&currStreakLabel=BB86FC&sideLabels=c0caf5&dates=c0caf5"
-    alt="GitHub streak"
-  />
-</p>
+Persian (Farsi) · English · Turkish
 
 ---
 
-## 🌍 Languages
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Persian%20(Farsi)-9D4EDD?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Persian" />
-  <img src="https://img.shields.io/badge/English-BB86FC?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English" />
-  <img src="https://img.shields.io/badge/Turkish-7B2CBF?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Turkish" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadsaeedii&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&color=c0caf5&line=BB86FC&point=FFFFFF&bg_color=1a1b27&title_color=BB86FC&area_color=9D4EDD"
-    alt="Contribution graph"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=mohammadsaeedii&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"
-    alt="GitHub trophies"
-  />
-</p>
-
----
-
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
@@ -111,23 +108,4 @@ I'm always learning, solving problems, and building interfaces people love to us
       alt="Contribution snake"
     />
   </picture>
-</p>
-
----
-
-## ✨ Developer Quote
-
-<p align="center">
-  <i>“Code is not just syntax — it's creativity, logic, and experience combined together.”</i>
-  <br /><br />
-  <sub>— Mohammad Saeedi</sub>
-</p>
-
----
-
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=mohammadsaeedii&color=9D4EDD&style=for-the-badge&label=PROFILE+VIEWS"
-    alt="Profile views"
-  />
 </p>
