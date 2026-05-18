@@ -50,14 +50,9 @@ I'm always learning, solving problems, and building interfaces people love to us
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Streak
 
 <p align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.shion.dev/api?username=mohammadsaeedii&show_icons=true&hide_border=true&include_all_commits=true&bg_color=1a1b27&title_color=BB86FC&icon_color=9D4EDD&text_color=c0caf5&border_color=7B2CBF&ring_color=BB86FC"
-    alt="GitHub stats"
-  />
   <img
     height="180em"
     src="https://streak-stats.demolab.com?user=mohammadsaeedii&theme=tokyonight&hide_border=true&background=1a1b27&fire=BB86FC&ring=9D4EDD&currStreakLabel=BB86FC&sideLabels=c0caf5&dates=c0caf5"
@@ -65,11 +60,14 @@ I'm always learning, solving problems, and building interfaces people love to us
   />
 </p>
 
+---
+
+## 🌍 Languages
+
 <p align="center">
-  <img
-    src="https://github-readme-stats.shion.dev/api/top-langs?username=mohammadsaeedii&hide_border=true&layout=compact&langs_count=8&bg_color=1a1b27&title_color=BB86FC&text_color=c0caf5&icon_color=9D4EDD"
-    alt="Top languages"
-  />
+  <img src="https://img.shields.io/badge/Persian%20(Farsi)-9D4EDD?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Persian" />
+  <img src="https://img.shields.io/badge/English-BB86FC?style=for-the-badge&logo=googletranslate&logoColor=white" alt="English" />
+  <img src="https://img.shields.io/badge/Turkish-7B2CBF?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Turkish" />
 </p>
 
 ---
