@@ -55,19 +55,19 @@ I'm always learning, solving problems, and building interfaces people love to us
 <p align="center">
   <img
     height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=mohammadsaeedii&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=BB86FC&icon_color=9D4EDD&text_color=c0caf5&border_color=7B2CBF&ring_color=BB86FC"
+    src="https://github-readme-stats.shion.dev/api?username=mohammadsaeedii&show_icons=true&hide_border=true&include_all_commits=true&bg_color=1a1b27&title_color=BB86FC&icon_color=9D4EDD&text_color=c0caf5&border_color=7B2CBF&ring_color=BB86FC"
     alt="GitHub stats"
   />
   <img
     height="180em"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsaeedii&theme=tokyonight&hide_border=true&fire=BB86FC&ring=9D4EDD&currStreakLabel=BB86FC&sideLabels=c0caf5&dates=c0caf5&background=1a1b27"
+    src="https://streak-stats.demolab.com?user=mohammadsaeedii&theme=tokyonight&hide_border=true&background=1a1b27&fire=BB86FC&ring=9D4EDD&currStreakLabel=BB86FC&sideLabels=c0caf5&dates=c0caf5"
     alt="GitHub streak"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsaeedii&theme=tokyonight&hide_border=true&layout=compact&bg_color=1a1b27&title_color=BB86FC&text_color=c0caf5&langs_count=8"
+    src="https://github-readme-stats.shion.dev/api/top-langs?username=mohammadsaeedii&hide_border=true&layout=compact&langs_count=8&bg_color=1a1b27&title_color=BB86FC&text_color=c0caf5&icon_color=9D4EDD"
     alt="Top languages"
   />
 </p>
