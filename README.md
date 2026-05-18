@@ -24,70 +24,88 @@ I focus on **component-driven UIs**, **REST API integration** (Node.js / NestJS)
 
 ---
 
-## Featured Projects
-
-<!-- Replace titles, descriptions, stacks, and links with your real repositories -->
-
-### Project Name — short tagline
-
-One sentence on the **problem** and who it’s for.
-
-- **Stack:** React · Next.js · TypeScript · NestJS · Vercel
-- **Highlights:** e.g. auth flow, dashboard, API integration, Vitest on core flows, deployed to production
-- **Links:** [Live Demo](https://your-demo-url.com) · [Repository](https://github.com/mohammadsaeedii/your-repo)
-
-### Project Name — short tagline
-
-One sentence on what you built and your ownership (solo / team / role).
-
-- **Stack:** React · Node.js · Docker · …
-- **Highlights:** e.g. performance improvement, accessibility, CI, or measurable outcome
-- **Links:** [Live Demo](https://your-demo-url.com) · [Repository](https://github.com/mohammadsaeedii/your-repo)
-
----
-
 ## Skills
 
-<table>
-<tr>
-<td valign="top" width="140"><strong>Frontend</strong></td>
-<td>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000" alt="JavaScript" />
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>Backend</strong></td>
-<td>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" />
-<img src="https://img.shields.io/badge/REST_API-9D4EDD?style=flat-square" alt="REST APIs" />
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>Testing</strong></td>
-<td>
-<img src="https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest" />
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>DevOps</strong></td>
-<td>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</td>
-</tr>
-<tr>
-<td valign="top"><strong>Also used</strong></td>
-<td>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-</td>
-</tr>
-</table>
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:BB86FC,45:7B2CBF,100:9D4EDD&height=120&section=header&text=Skills%20%26%20Tools&fontSize=38&fontColor=ffffff&desc=React%20%C2%B7%20Next.js%20%C2%B7%20APIs%20%C2%B7%20Ship%20with%20confidence&descSize=15&descAlignY=72&animation=twinkling"
+    alt="Skills and tools"
+  />
+</p>
+
+<br/>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Frontend-101010?style=for-the-badge&labelColor=BB86FC&logoColor=ffffff"
+    alt="Frontend"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=js,react,nextjs,html,css&theme=dark"
+    alt="JavaScript, React, Next.js, HTML, CSS"
+  />
+</p>
+
+<br/>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Backend-101010?style=for-the-badge&labelColor=7B2CBF&logoColor=ffffff"
+    alt="Backend"
+  />
+  &nbsp;
+  <img
+    src="https://img.shields.io/badge/Testing-101010?style=for-the-badge&labelColor=9D4EDD&logoColor=ffffff"
+    alt="Testing"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,nestjs,vitest&theme=dark"
+    alt="Node.js, NestJS, Vitest"
+  />
+  &nbsp;
+  <img
+    src="https://img.shields.io/badge/REST_APIs-9D4EDD?style=for-the-badge&labelColor=1a1228&logoColor=ffffff"
+    alt="REST APIs"
+  />
+</p>
+
+<br/>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/DevOps_%26_Tools-101010?style=for-the-badge&labelColor=BB86FC&logoColor=ffffff"
+    alt="DevOps and tools"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=docker,git,vercel&theme=dark"
+    alt="Docker, Git, Vercel"
+  />
+</p>
+
+<br/>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Also_used-101010?style=for-the-badge&labelColor=7B2CBF&logoColor=ffffff"
+    alt="Also used"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=py&theme=dark"
+    alt="Python"
+  />
+</p>
 
 ---
 
