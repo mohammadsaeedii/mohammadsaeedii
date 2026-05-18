@@ -31,10 +31,6 @@ I focus on **component-driven UIs**, **REST API integration** (Node.js / NestJS)
 ### 💻 Frontend
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Frontend-101010?style=for-the-badge&labelColor=BB86FC&logoColor=ffffff" alt="Frontend" />
-</p>
-
-<p align="left">
   <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css&theme=dark" alt="JavaScript, React, Next.js, HTML, CSS" />
 </p>
 
@@ -42,13 +38,7 @@ I focus on **component-driven UIs**, **REST API integration** (Node.js / NestJS)
 
 ### ⚙️ Backend & Testing
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Backend-101010?style=for-the-badge&labelColor=7B2CBF&logoColor=ffffff" alt="Backend" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Testing-101010?style=for-the-badge&labelColor=9D4EDD&logoColor=ffffff" alt="Testing" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/REST_APIs-9D4EDD?style=for-the-badge&labelColor=1a1228&logoColor=ffffff" alt="REST APIs" />
-</p>
+
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,nestjs,vitest&theme=dark" alt="Node.js, NestJS, Vitest" />
@@ -58,9 +48,7 @@ I focus on **component-driven UIs**, **REST API integration** (Node.js / NestJS)
 
 ### 🧰 DevOps & Tools
 
-<p align="left">
-  <img src="https://img.shields.io/badge/DevOps_%26_Tools-101010?style=for-the-badge&labelColor=BB86FC&logoColor=ffffff" alt="DevOps and tools" />
-</p>
+
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,git,vercel&theme=dark" alt="Docker, Git, Vercel" />
