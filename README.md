@@ -1,71 +1,135 @@
-# 💫 About Me:
+<h1 align="center">🌌 Mohammad Saeedi</h1>
+<h3 align="center">Dark Purple Neon · Tokyo Night</h3>
 
-Hi there 👋
-I’m a passionate Front-End Developer with over one year of professional experience building responsive, modern, and user-friendly web applications. I enjoy transforming creative ideas into clean and functional digital experiences with a strong focus on performance, usability, and design.
-
-I’m constantly learning new technologies and improving my skills to stay aligned with modern web development trends. I love solving problems, building scalable applications, and creating interfaces that users genuinely enjoy interacting with.
-
----
-
-## 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/mamadsaeedii)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/mohammadsaeedi)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail\&logoColor=white)](mailto:mamadsaeedi2005@gmail.com)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Mohammad+Saeedi;Front-End+Developer+%F0%9F%92%BB;React+%7C+Next.js+%7C+JavaScript;Building+modern+%26+user-friendly+apps"
+      alt="Typing animation"
+    />
+  </a>
+</p>
 
 ---
 
-# 🚀 Tech Stack:
+## 💫 About Me
 
-## 🎨 Front-End
+Hi there 👋  
+I'm a passionate **Front-End Developer** with over one year of professional experience building responsive, modern, and user-friendly web applications. I enjoy turning creative ideas into clean digital experiences with a strong focus on **performance**, **usability**, and **design**.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=next.js\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-## ⚙️ Back-End & Tools
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge\&logo=nestjs\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
-
-## 🧪 Testing & Deployment
-
-![Vitest](https://img.shields.io/badge/Vitest-252529?style=for-the-badge\&logo=vitest\&logoColor=FCC72B)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+I'm always learning, solving problems, and building interfaces people love to use.
 
 ---
 
-# 📊 GitHub Stats:
+## 🌐 Connect
 
-![](https://github-readme-stats.vercel.app/api?username=mohammadsaeedii\&theme=tokyonight\&hide_border=true\&include_all_commits=true\&count_private=true)
+<p align="center">
+  <a href="https://instagram.com/mamadsaeedii">
+    <img src="https://img.shields.io/badge/Instagram-9D4EDD?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://linkedin.com/in/mohammadsaeedi">
+    <img src="https://img.shields.io/badge/LinkedIn-BB86FC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mamadsaeedi2005@gmail.com">
+    <img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohammadsaeedii\&theme=tokyonight\&hide_border=true)
+---
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsaeedii\&theme=tokyonight\&hide_border=true\&layout=compact)
+## 🛠️ Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img
+      src="https://skillicons.dev/icons?i=js,react,next,css,nodejs,nest,docker,py,vitest,vercel,git&perline=5&theme=dark"
+      alt="Skill icons"
+    />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=mohammadsaeedii&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=1a1b27&title_color=BB86FC&icon_color=9D4EDD&text_color=c0caf5&border_color=7B2CBF&ring_color=BB86FC"
+    alt="GitHub stats"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadsaeedii&theme=tokyonight&hide_border=true&fire=BB86FC&ring=9D4EDD&currStreakLabel=BB86FC&sideLabels=c0caf5&dates=c0caf5&background=1a1b27"
+    alt="GitHub streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadsaeedii&theme=tokyonight&hide_border=true&layout=compact&bg_color=1a1b27&title_color=BB86FC&text_color=c0caf5&langs_count=8"
+    alt="Top languages"
+  />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadsaeedii&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity&color=c0caf5&line=BB86FC&point=FFFFFF&bg_color=1a1b27&title_color=BB86FC&area_color=9D4EDD"
+    alt="Contribution graph"
+  />
+</p>
 
 ---
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=mohammadsaeedii\&theme=tokyonight\&no-frame=true\&row=1\&column=6)
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=mohammadsaeedii&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8&margin-h=8"
+    alt="GitHub trophies"
+  />
+</p>
 
 ---
 
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/mohammadsaeedii/mohammadsaeedii/blob/output/github-contribution-grid-snake-dark.svg)
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github.com/mohammadsaeedii/mohammadsaeedii/blob/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github.com/mohammadsaeedii/mohammadsaeedii/blob/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      src="https://github.com/mohammadsaeedii/mohammadsaeedii/blob/output/github-contribution-grid-snake-dark.svg"
+      alt="Contribution snake"
+    />
+  </picture>
+</p>
 
 ---
 
 ## ✨ Developer Quote
 
-> *“Code is not just syntax — it's creativity, logic, and experience combined together.”*
->
-> — Mohammad Saeedi
+<p align="center">
+  <i>“Code is not just syntax — it's creativity, logic, and experience combined together.”</i>
+  <br /><br />
+  <sub>— Mohammad Saeedi</sub>
+</p>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=mohammadsaeedii\&icon=5\&color=12)](https://visitcount.itsvg.in)
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=mohammadsaeedii&color=9D4EDD&style=for-the-badge&label=PROFILE+VIEWS"
+    alt="Profile views"
+  />
+</p>
