@@ -21,9 +21,6 @@ I focus on **component-driven UIs**, **REST API integration** (Node.js / NestJS)
 ---
 
 ## 🛠️ Skills
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:BB86FC,45:7B2CBF,100:9D4EDD&height=120&section=header&text=Skills%20%26%20Tools&fontSize=38&fontColor=ffffff&desc=React%20%C2%B7%20Next.js%20%C2%B7%20APIs%20%C2%B7%20Ship%20with%20confidence&descSize=15&descAlignY=72&animation=twinkling" alt="Skills and tools" />
 </p>
 
 <br />
@@ -58,9 +55,6 @@ I focus on **component-driven UIs**, **REST API integration** (Node.js / NestJS)
 
 ### 🐍 Also used
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Also_used-101010?style=for-the-badge&labelColor=7B2CBF&logoColor=ffffff" alt="Also used" />
-</p>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" />
