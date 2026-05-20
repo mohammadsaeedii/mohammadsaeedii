@@ -15,17 +15,15 @@
   />
 </a>
 
+  <br />
+
+  <a href="#about-me"><img src="https://img.shields.io/badge/About-Me-BB86FC?style=flat-square&labelColor=10002b" alt="About me" /></a>
+  <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech-Stack-7B2CBF?style=flat-square&labelColor=10002b" alt="Tech stack" /></a>
+  <a href="#connect"><img src="https://img.shields.io/badge/Connect-9D4EDD?style=flat-square&labelColor=10002b" alt="Connect" /></a>
+  <a href="#languages"><img src="https://img.shields.io/badge/Languages-C77DFF?style=flat-square&labelColor=10002b" alt="Languages" /></a>
+  <a href="#activity"><img src="https://img.shields.io/badge/Activity-E0AAFF?style=flat-square&labelColor=10002b&color=240046" alt="Activity" /></a>
+
 </div>
-
----
-
-## Table of contents
-
-- [About me](#-about-me)
-- [Tech stack](#-tech-stack)
-- [Connect](#-connect)
-- [Languages](#-languages)
-- [Activity](#-activity)
 
 ---
 
