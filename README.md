@@ -5,8 +5,8 @@
 **Front-End Developer** · React · Next.js · JavaScript
 
 [![Profile](https://img.shields.io/badge/GitHub-mohammadsaeedii-181717?style=flat-square&logo=github)](https://github.com/mohammadsaeedii)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/mohammadsaeedi)
-[![Email](https://img.shields.io/badge/Email-Reach%20out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mamadsaeedi2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammad-saeedi-5ba1a12b7)
+[![Email](https://img.shields.io/badge/Email-Reach%20out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammadsaeedi.dev@gmail.com)
 
 <a href="https://git.io/typing-svg">
   <img
