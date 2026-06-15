@@ -86,7 +86,7 @@ I focus on **component-driven UIs**, **REST API integration** (Node.js / NestJS)
 ## Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohammadsaeedi">
+  <a href="https://linkedin.com/in/mohammadsaeedi](https://www.linkedin.com/in/mohammad-saeedi-5ba1a12b7">
     <img src="https://img.shields.io/badge/LinkedIn-BB86FC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
