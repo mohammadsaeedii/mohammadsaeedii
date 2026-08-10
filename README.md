@@ -2,7 +2,11 @@
 
 # Mohammad Saeedi
 
-**Front-End Developer** · React · Next.js · JavaScript
+**Full-Stack Engineer**
+
+Building scalable web applications, backend systems, developer tools, and AI-powered products.
+
+From polished interfaces and frontend architecture to APIs, databases, infrastructure, and deployment — I own products across the entire technical stack.
 
 [![Profile](https://img.shields.io/badge/GitHub-mohammadsaeedii-181717?style=flat-square&logo=github)](https://github.com/mohammadsaeedii)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammad-saeedi-5ba1a12b7)
@@ -10,8 +14,8 @@
 
 <a href="https://git.io/typing-svg">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=520&lines=Front-End+Developer;React+%2B+Next.js+product+UIs;Shipping+tested%2C+deployable+web+apps"
-    alt="Front-End Developer · React + Next.js · Shipping tested, deployable web apps"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=620&lines=Full-Stack+Engineer;Frontend+%2B+Backend+%2B+Infrastructure;Building+scalable+%26+AI-powered+products"
+    alt="Full-Stack Engineer · Frontend + Backend + Infrastructure · Building scalable & AI-powered products"
   />
 </a>
 
@@ -29,14 +33,14 @@
 
 ## About me
 
-Front-end developer with **1+ year** of professional experience building production web applications with **React** and **Next.js**.
+**Full-Stack Engineer** with strong expertise across frontend and backend engineering, plus interest in infrastructure, system architecture, and AI-powered products.
 
-I focus on **component-driven UIs**, **REST API integration** (Node.js / NestJS), and shipping features with **Vitest** coverage on critical paths. I care about readable code, responsive layouts, and deployments that are straightforward to maintain on **Vercel**.
+I build end-to-end: React/Next.js interfaces and frontend architecture, Node.js/NestJS APIs, database design, and the CI/CD and infrastructure that ships and scales them. I care about clean architecture, developer experience, and systems that stay maintainable as they grow.
 
 | | |
 | :--- | :--- |
-| **Currently** | Strengthening Next.js patterns, backend collaboration with NestJS, and publishing more project case studies on GitHub. |
-| **Open to** | Front-end roles and freelance collaborations (remote-friendly). |
+| **Focus** | Full-stack web development, API & database architecture, scalable systems, DevOps/CI/CD, AI-powered applications |
+| **Open to** | Full-stack engineering roles and freelance collaborations (remote-friendly) |
 
 ---
 
@@ -45,52 +49,57 @@ I focus on **component-driven UIs**, **REST API integration** (Node.js / NestJS)
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css&theme=dark" alt="JavaScript, React, Next.js, HTML, CSS" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux&theme=dark" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, Redux" />
 </p>
 
 | Area | Tools |
 | :--- | :--- |
-| **Core** | JavaScript, React, Next.js |
-| **Markup & style** | HTML, CSS |
+| **Core** | React, Next.js, TypeScript, JavaScript |
+| **Styling & state** | Tailwind CSS, Zustand, Redux |
+| **Focus** | Frontend architecture, performance, polished product UIs |
 
-### Backend & testing
+### Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,vitest&theme=dark" alt="Node.js, NestJS, Vitest" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres,redis&theme=dark" alt="Node.js, NestJS, Prisma, PostgreSQL, Redis" />
 </p>
 
 | Area | Tools |
 | :--- | :--- |
-| **Runtime & APIs** | Node.js, NestJS (REST integration) |
-| **Quality** | Vitest (critical-path coverage) |
+| **Runtime & APIs** | Node.js, NestJS, REST APIs |
+| **Data** | Prisma, PostgreSQL, Redis |
+| **Focus** | API design, database architecture, auth & security |
 
-### DevOps & tools
+### Infrastructure & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,git,vercel&theme=dark" alt="Docker, Git, Vercel" />
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git&theme=dark" alt="Docker, GitHub Actions, Linux, Git" />
 </p>
 
 | Area | Tools |
 | :--- | :--- |
-| **Deploy** | Vercel |
-| **Workflow** | Git, Docker |
+| **Containers & CI** | Docker, GitHub Actions, CI/CD |
+| **Platform** | Linux, cloud infrastructure |
+| **Focus** | Reliable deploys, developer tooling, operational clarity |
 
-### Also used
+### Engineering
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py&theme=dark" alt="Python" />
-</p>
+| Area | Practices |
+| :--- | :--- |
+| **Architecture** | System architecture, clean architecture, monorepos |
+| **Product quality** | Authentication & authorization, performance optimization, security |
+| **DX** | Developer tooling, scalable & distributed systems thinking |
 
 ---
 
 ## Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/mohammadsaeedi](https://www.linkedin.com/in/mohammad-saeedi-5ba1a12b7">
+  <a href="https://www.linkedin.com/in/mohammad-saeedi-5ba1a12b7">
     <img src="https://img.shields.io/badge/LinkedIn-BB86FC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:mamadsaeedi2005@gmail.com">
+  <a href="mailto:mohammadsaeedi.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
@@ -125,6 +134,6 @@ Contribution graph rendered as a snake animation (updates via GitHub Actions).
 
 <div align="center">
 
-**Thanks for visiting.** If my work or stack is a fit for your team, I would be glad to connect.
+**Thanks for visiting.** If you need a Full-Stack Engineer who can own a product across the stack, let's connect.
 
 </div>
