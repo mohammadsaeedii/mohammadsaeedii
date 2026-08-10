@@ -1,139 +1,279 @@
+<!--
+  GitHub Profile README — Mohammad Saeedi
+  Username: mohammadsaeedii
+
+  Widget notes (update username if this repo is forked/renamed):
+  - Stats / top langs / pins: https://github.com/stats-organization/github-stats-extended
+    (successor to github-readme-stats; official vercel.app host is often paused)
+  - Streak: https://github.com/DenverCoder1/github-readme-streak-stats
+  - Skill icons: https://github.com/tandpfun/skill-icons
+  - Typing SVG: https://github.com/DenverCoder1/readme-typing-svg
+  - Snake: .github/workflows/snake.yml → output branch (Platane/snk)
+  - Visitors: https://github.com/antonkomarev/github-profile-views-counter
+-->
+
 <div align="center">
 
-# Mohammad Saeedi
-
-**Full-Stack Engineer**
-
-Building scalable web applications, backend systems, developer tools, and AI-powered products.
-
-From polished interfaces and frontend architecture to APIs, databases, infrastructure, and deployment — I own products across the entire technical stack.
-
-[![Profile](https://img.shields.io/badge/GitHub-mohammadsaeedii-181717?style=flat-square&logo=github)](https://github.com/mohammadsaeedii)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammad-saeedi-5ba1a12b7)
-[![Email](https://img.shields.io/badge/Email-Reach%20out-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mohammadsaeedi.dev@gmail.com)
-
-<a href="https://git.io/typing-svg">
+  <!-- Profile views (optional; remove if you prefer no counters) -->
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=BB86FC&center=true&vCenter=true&width=620&lines=Full-Stack+Engineer;Frontend+%2B+Backend+%2B+Infrastructure;Building+scalable+%26+AI-powered+products"
-    alt="Full-Stack Engineer · Frontend + Backend + Infrastructure · Building scalable & AI-powered products"
+    src="https://komarev.com/ghpvc/?username=mohammadsaeedii&style=flat-square&color=0969da"
+    alt="Profile views"
   />
-</a>
+
+  <h1>Mohammad Saeedi</h1>
+
+  <strong>Full-Stack Developer</strong>
+
+  <br /><br />
+
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=0969DA&center=true&vCenter=true&width=640&lines=Full-Stack+Developer;React+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+PostgreSQL;Building+end-to-end+web+products"
+      alt="Full-Stack Developer · React · Next.js · NestJS · PostgreSQL"
+    />
+  </a>
 
   <br />
 
-  <a href="#about-me"><img src="https://img.shields.io/badge/About-Me-BB86FC?style=flat-square&labelColor=10002b" alt="About me" /></a>
-  <a href="#tech-stack"><img src="https://img.shields.io/badge/Tech-Stack-7B2CBF?style=flat-square&labelColor=10002b" alt="Tech stack" /></a>
-  <a href="#connect"><img src="https://img.shields.io/badge/Connect-9D4EDD?style=flat-square&labelColor=10002b" alt="Connect" /></a>
-  <a href="#languages"><img src="https://img.shields.io/badge/Languages-C77DFF?style=flat-square&labelColor=10002b" alt="Languages" /></a>
-  <a href="#activity"><img src="https://img.shields.io/badge/Activity-E0AAFF?style=flat-square&labelColor=10002b&color=240046" alt="Activity" /></a>
+  <p>
+    I design and ship complete web products — from polished interfaces to APIs,
+    databases, authentication, and deployment.
+  </p>
+
+  <p>
+    <a href="https://github.com/mohammadsaeedii">
+      <img src="https://img.shields.io/badge/GitHub-mohammadsaeedii-181717?style=flat-square&logo=github" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="https://www.linkedin.com/in/mohammad-saeedi-5ba1a12b7">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
+    </a>
+    &nbsp;
+    <a href="mailto:mohammadsaeedi.dev@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Reach%20out-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
 </div>
 
 ---
 
-## About me
+## About
 
-**Full-Stack Engineer** with strong expertise across frontend and backend engineering, plus interest in infrastructure, system architecture, and AI-powered products.
+**Full-Stack Developer** focused on modern TypeScript web systems.
 
-I build end-to-end: React/Next.js interfaces and frontend architecture, Node.js/NestJS APIs, database design, and the CI/CD and infrastructure that ships and scales them. I care about clean architecture, developer experience, and systems that stay maintainable as they grow.
+I work across the stack with a strong preference for clear architecture, reliable APIs, and interfaces that feel intentional. Most of my recent work centers on multi-tenant product surfaces, auth flows, and monorepo full-stack apps.
 
 | | |
 | :--- | :--- |
-| **Focus** | Full-stack web development, API & database architecture, scalable systems, DevOps/CI/CD, AI-powered applications |
-| **Open to** | Full-stack engineering roles and freelance collaborations (remote-friendly) |
+| **Focus** | Full-stack web apps, REST APIs, data modeling, auth, Dockerized delivery |
+| **Open to** | Full-stack roles and freelance collaborations (remote-friendly) |
+| **Languages** | Persian (Farsi) · English · Turkish |
+
+---
+
+## What I build
+
+- **Product UIs** with React, Next.js, and Tailwind CSS
+- **Backend services** with Node.js, NestJS, and REST APIs
+- **Data layers** with PostgreSQL and Prisma
+- **Auth systems** with JWT / Passport and OAuth-style flows
+- **Shippable systems** with Docker and GitHub Actions
 
 ---
 
 ## Tech stack
 
+Technologies I use in real projects — not a badge wall.
+
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,redux&theme=dark" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, Redux" />
+  <img
+    src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind&theme=dark"
+    alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS"
+  />
 </p>
 
-| Area | Tools |
-| :--- | :--- |
-| **Core** | React, Next.js, TypeScript, JavaScript |
-| **Styling & state** | Tailwind CSS, Zustand, Redux |
-| **Focus** | Frontend architecture, performance, polished product UIs |
-
-### Backend
+### Backend & data
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,prisma,postgres,redis&theme=dark" alt="Node.js, NestJS, Prisma, PostgreSQL, Redis" />
+  <img
+    src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,prisma&theme=dark"
+    alt="Node.js, NestJS, PostgreSQL, Prisma"
+  />
 </p>
 
-| Area | Tools |
-| :--- | :--- |
-| **Runtime & APIs** | Node.js, NestJS, REST APIs |
-| **Data** | Prisma, PostgreSQL, Redis |
-| **Focus** | API design, database architecture, auth & security |
-
-### Infrastructure & DevOps
+### Tooling & delivery
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,githubactions,linux,git&theme=dark" alt="Docker, GitHub Actions, Linux, Git" />
+  <img
+    src="https://skillicons.dev/icons?i=docker,githubactions,linux,git&theme=dark"
+    alt="Docker, GitHub Actions, Linux, Git"
+  />
 </p>
 
-| Area | Tools |
-| :--- | :--- |
-| **Containers & CI** | Docker, GitHub Actions, CI/CD |
-| **Platform** | Linux, cloud infrastructure |
-| **Focus** | Reliable deploys, developer tooling, operational clarity |
+---
 
-### Engineering
+## Featured projects
 
-| Area | Practices |
-| :--- | :--- |
-| **Architecture** | System architecture, clean architecture, monorepos |
-| **Product quality** | Authentication & authorization, performance optimization, security |
-| **DX** | Developer tooling, scalable & distributed systems thinking |
+Work that best represents how I build full-stack systems.
+
+### Multi-tenant CRM platform
+
+A customer/tenant management system split into a Next.js client, NestJS APIs, and PostgreSQL via Prisma — including JWT auth and OAuth/OIDC-style identity flows for provisioning and SSO.
+
+| Repo | Role | Stack |
+| :--- | :--- | :--- |
+| [crm-front](https://github.com/mohammadsaeedii/crm-front) | Frontend panel | Next.js 15 · React 19 · TypeScript · Tailwind · Docker |
+| [crm-back](https://github.com/mohammadsaeedii/crm-back) | Tenant CRM API | NestJS · Prisma · PostgreSQL · JWT/Passport · Docker |
+| [add-crm-backend](https://github.com/mohammadsaeedii/add-crm-backend) | Identity / provisioning API | NestJS · Prisma · PostgreSQL · OAuth · Docker Compose |
+
+<p align="center">
+  <a href="https://github.com/mohammadsaeedii/crm-front">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=mohammadsaeedii&repo=crm-front&theme=transparent&hide_border=true"
+      alt="crm-front"
+      height="120"
+    />
+  </a>
+  <a href="https://github.com/mohammadsaeedii/add-crm-backend">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=mohammadsaeedii&repo=add-crm-backend&theme=transparent&hide_border=true"
+      alt="add-crm-backend"
+      height="120"
+    />
+  </a>
+</p>
+
+### Aether OS — planner monorepo
+
+Personal planner migrated into a pnpm monorepo with a Next.js frontend, NestJS API, and shared TypeScript packages.
+
+- **Repo:** [planner](https://github.com/mohammadsaeedii/planner)
+- **Stack:** Next.js · NestJS · TypeScript · Tailwind · pnpm workspaces
+
+<p align="center">
+  <a href="https://github.com/mohammadsaeedii/planner">
+    <img
+      src="https://github-stats-extended.vercel.app/api/pin/?username=mohammadsaeedii&repo=planner&theme=transparent&hide_border=true"
+      alt="planner"
+      height="120"
+    />
+  </a>
+</p>
+
+---
+
+## Currently exploring
+
+- Multi-tenant architecture and clean API boundaries
+- Auth patterns that stay maintainable as products grow
+- Full-stack monorepos with shared types and stronger DX
+- Shipping Dockerized NestJS + Next.js systems with less friction
+
+---
+
+## GitHub stats
+
+<!-- Host: github-stats-extended (maintained successor of github-readme-stats) -->
+
+<div align="center">
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api?username=mohammadsaeedii&show_icons=true&theme=github_dark&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-stats-extended.vercel.app/api?username=mohammadsaeedii&show_icons=true&theme=default&hide_border=true"
+    />
+    <img
+      height="165"
+      src="https://github-stats-extended.vercel.app/api?username=mohammadsaeedii&show_icons=true&theme=transparent&hide_border=true"
+      alt="GitHub stats"
+    />
+  </picture>
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://streak-stats.demolab.com?user=mohammadsaeedii&theme=dark&hide_border=true"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://streak-stats.demolab.com?user=mohammadsaeedii&theme=default&hide_border=true"
+    />
+    <img
+      height="165"
+      src="https://streak-stats.demolab.com?user=mohammadsaeedii&theme=transparent&hide_border=true"
+      alt="GitHub streak"
+    />
+  </picture>
+
+  <br />
+
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=mohammadsaeedii&layout=compact&theme=github_dark&hide_border=true&langs_count=6"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=mohammadsaeedii&layout=compact&theme=default&hide_border=true&langs_count=6"
+    />
+    <img
+      height="165"
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=mohammadsaeedii&layout=compact&theme=transparent&hide_border=true&langs_count=6"
+      alt="Top languages"
+    />
+  </picture>
+
+</div>
+
+---
+
+## Contribution graph
+
+Snake animation generated from my contribution grid via GitHub Actions (`Platane/snk`).
+
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/mohammadsaeedii/mohammadsaeedii/output/github-contribution-grid-snake-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/mohammadsaeedii/mohammadsaeedii/output/github-contribution-grid-snake.svg"
+    />
+    <img
+      alt="GitHub contribution snake animation"
+      src="https://raw.githubusercontent.com/mohammadsaeedii/mohammadsaeedii/output/github-contribution-grid-snake-dark.svg"
+    />
+  </picture>
+</div>
 
 ---
 
 ## Connect
 
-<p align="center">
+<div align="center">
+
   <a href="https://www.linkedin.com/in/mohammad-saeedi-5ba1a12b7">
-    <img src="https://img.shields.io/badge/LinkedIn-BB86FC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="mailto:mohammadsaeedi.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;
   <a href="https://instagram.com/mamadsaeedii">
-    <img src="https://img.shields.io/badge/Instagram-9D4EDD?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-</p>
 
-> **Tip:** For collaboration or hiring, LinkedIn and email are the fastest ways to reach me.
+  <br /><br />
 
----
-
-## Languages
-
-**Persian (Farsi)** · **English** · **Turkish**
-
----
-
-## Activity
-
-Contribution graph rendered as a snake animation (updates via GitHub Actions).
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/mohammadsaeedii/mohammadsaeedii/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/mohammadsaeedii/mohammadsaeedii/blob/output/github-contribution-grid-snake.svg" />
-    <img src="https://github.com/mohammadsaeedii/mohammadsaeedii/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-  </picture>
-</p>
-
----
-
-<div align="center">
-
-**Thanks for visiting.** If you need a Full-Stack Engineer who can own a product across the stack, let's connect.
+  Looking for a **Full-Stack Developer** who can own a product across the stack? Let's talk.
 
 </div>
