@@ -49,7 +49,7 @@ Software engineer working across product surfaces, APIs, data, and delivery. Rec
 
 Persian · English · Turkish
 
-## // TERMINAL
+## TERMINAL
 
 <div align="center">
   <picture>
@@ -58,71 +58,6 @@ Persian · English · Turkish
     <img src="./assets/terminal-dark.svg" alt="Terminal: whoami mohammadsaeedii. Role: Software Engineer, Full-Stack. Focus: AI Agents, Developer Tools, Web Systems. Stack: React, Next, Nest, PostgreSQL, Docker. Status: building things worth shipping." width="880" />
   </picture>
 </div>
-
-## // CURRENTLY BUILDING
-
-Agents in the engineering loop: code, test, ship.
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/agent-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/agent-light.svg" />
-    <img src="./assets/agent-dark.svg" alt="AI agent loop: code, test, ship" width="880" />
-  </picture>
-</div>
-
-| Track | Focus |
-| :--- | :--- |
-| **AI Agents** | Teams that work inside real repositories |
-| **Developer Tools** | Workspaces and local-first agent runtimes |
-| **Full-Stack Systems** | TypeScript products from interface to API to Docker |
-
-## // SELECTED WORK
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/mohammadsaeedii/Synaps-editor">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/synapse-dark.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="./assets/cards/synapse-light.svg" />
-          <img src="./assets/cards/synapse-dark.svg" alt="Synapse — AI-powered development workspace. Next.js, React, TypeScript." width="428" />
-        </picture>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/mirzaaghazadeh/StandBye">
-        <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/standbye-dark.svg" />
-          <source media="(prefers-color-scheme: light)" srcset="./assets/cards/standbye-light.svg" />
-          <img src="./assets/cards/standbye-dark.svg" alt="StandBye — AI agent teams for real repositories. Electron, React, TypeScript." width="428" />
-        </picture>
-      </a>
-    </td>
-  </tr>
-</table>
-
-<div align="center">
-  <a href="https://github.com/mohammadsaeedii/Kerso-crm">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/cards/kerso-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/cards/kerso-light.svg" />
-      <img src="./assets/cards/kerso-dark.svg" alt="Kerso — customer communication, support, and AI platform. Next.js, React, TypeScript." width="880" />
-    </picture>
-  </a>
-</div>
-
-## // OPEN SOURCE
-
-Contributing to **[StandBye](https://github.com/mirzaaghazadeh/StandBye)** — a BYOK desktop app where a described team of AI agents works on a repository around the clock.
-
-Recent public work: onboarding / provider selection on the upstream project ([PR #3](https://github.com/mirzaaghazadeh/StandBye/pull/3), [PR #4](https://github.com/mirzaaghazadeh/StandBye/pull/4)).
-
-## // ENGINEERING FOCUS
-
-Architecture · APIs · Data · Auth · DX · AI
-
-Product UIs in React and Next.js. Services in Node.js and NestJS. Data in PostgreSQL and Prisma. Auth that stays maintainable. Delivery with Docker and GitHub Actions.
 
 ## // STACK
 
@@ -197,14 +132,4 @@ Contribution grid rendered as a snake via `Platane/snk`.
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohammadsaeedii/mohammadsaeedii/output/github-contribution-grid-snake.svg" />
     <img src="https://raw.githubusercontent.com/mohammadsaeedii/mohammadsaeedii/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
   </picture>
-</div>
-
-## // LET'S BUILD
-
-A software engineer who can own a product across the stack — interface, API, data, delivery.
-
-<div align="center">
-
-[Portfolio](https://mohammad-saeedi.vercel.app) · [GitHub](https://github.com/mohammadsaeedii) · [LinkedIn](https://www.linkedin.com/in/mohammad-saeedi-5ba1a12b7) · [Email](mailto:mohammadsaeedi.dev@gmail.com) · [Instagram](https://instagram.com/mamadsaeedii)
-
 </div>
