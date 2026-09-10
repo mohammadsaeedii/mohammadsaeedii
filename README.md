@@ -67,9 +67,29 @@ Technologies from shipped work — grouped, not a wall.
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind&amp;theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind&amp;theme=dark" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=js&amp;theme=dark" alt="JavaScript" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=ts&amp;theme=dark" alt="TypeScript" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=react&amp;theme=dark" alt="React" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nextjs&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=nextjs&amp;theme=dark" alt="Next.js" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=tailwind&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=tailwind&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=tailwind&amp;theme=dark" alt="Tailwind CSS" />
   </picture>
 </p>
 
@@ -77,9 +97,24 @@ Technologies from shipped work — grouped, not a wall.
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,prisma&amp;theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,prisma&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=nodejs,nestjs,postgres,prisma&amp;theme=dark" alt="Node.js, NestJS, PostgreSQL, Prisma" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=nodejs&amp;theme=dark" alt="Node.js" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nestjs&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nestjs&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=nestjs&amp;theme=dark" alt="NestJS" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=postgres&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=postgres&amp;theme=dark" alt="PostgreSQL" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=prisma&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=prisma&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=prisma&amp;theme=dark" alt="Prisma" />
   </picture>
 </p>
 
@@ -87,9 +122,24 @@ Technologies from shipped work — grouped, not a wall.
 
 <p>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,linux,githubactions&amp;theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,git,linux,githubactions&amp;theme=light" />
-    <img src="https://skillicons.dev/icons?i=docker,git,linux,githubactions&amp;theme=dark" alt="Docker, Git, Linux, GitHub Actions" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=docker&amp;theme=dark" alt="Docker" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=git&amp;theme=dark" alt="Git" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=linux&amp;theme=dark" alt="Linux" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=githubactions&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=githubactions&amp;theme=light" />
+    <img src="https://skillicons.dev/icons?i=githubactions&amp;theme=dark" alt="GitHub Actions" />
   </picture>
 </p>
 
