@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="392" viewBox="0 0 880 392" role="img" aria-labelledby="title">
+  <title id="title">mohammadsaeedii terminal</title>
+  <rect x="0.75" y="0.75" width="878.5" height="390.5" rx="12" fill="#0B0F14" stroke="#243041"/>
+  <path d="M12 1h856a11 11 0 0 1 11 11v26H1V12A11 11 0 0 1 12 1z" fill="#11161D"/>
+  <line x1="1" y1="38" x2="879" y2="38" stroke="#243041"/>
+  <circle cx="22" cy="19.5" r="4" fill="#2C3948"/>
+  <circle cx="38" cy="19.5" r="4" fill="#2C3948"/>
+  <circle cx="54" cy="19.5" r="4" fill="#2C3948"/>
+  <text x="74" y="24" fill="#8B9BB0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12">zsh  /  mohammadsaeedii</text>
+
+  <text x="36" y="76" fill="#67E8F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="14">$</text>
+  <text x="56" y="76" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="14">whoami</text>
+  <text x="56" y="100" fill="#9AA8B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="14">mohammadsaeedii</text>
+
+  <text x="36" y="140" fill="#67E8F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="14">$</text>
+  <text x="56" y="140" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="14">role</text>
+  <text x="56" y="164" fill="#9AA8B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="14">Software Engineer / Full-Stack</text>
+
+  <text x="36" y="204" fill="#67E8F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="14">$</text>
+  <text x="56" y="204" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="14">focus</text>
+  <text x="56" y="228" fill="#9AA8B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="14">AI Agents / Developer Tools / Web Systems</text>
+
+  <text x="36" y="268" fill="#67E8F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="14">$</text>
+  <text x="56" y="268" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="14">stack</text>
+  <text x="56" y="292" fill="#9AA8B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="14">React / Next / Nest / PostgreSQL / Docker</text>
+
+  <text x="36" y="332" fill="#67E8F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="14">$</text>
+  <text x="56" y="332" fill="#E6EDF3" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="14">status</text>
+  <text x="56" y="356" fill="#9AA8B8" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="14">building things worth shipping.</text>
+  <rect x="318" y="344" width="7" height="14" fill="#67E8F9">
+    <animate attributeName="opacity" values="1;0;1" dur="1.15s" repeatCount="indefinite"/>
+  </rect>
+</svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="268" viewBox="0 0 880 268" role="img" aria-labelledby="title desc">
+  <title id="title">Mohammad Saeedi - Software Engineer / Full-Stack</title>
+  <desc id="desc">Custom workspace hero for Mohammad Saeedi. Dark developer-lab frame with terminal details.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#1A2430" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect x="0.75" y="0.75" width="878.5" height="266.5" rx="12" fill="#0B0F14" stroke="#243041"/>
+  <rect x="1" y="38" width="878" height="229" fill="url(#grid)" opacity="0.55"/>
+  <rect x="1" y="38" width="6" height="229" fill="#67E8F9" opacity="0.72"/>
+
+  <path d="M12 1h856a11 11 0 0 1 11 11v26H1V12A11 11 0 0 1 12 1z" fill="#11161D"/>
+  <line x1="1" y1="38" x2="879" y2="38" stroke="#243041"/>
+
+  <circle cx="22" cy="19.5" r="4" fill="#2C3948"/>
+  <circle cx="38" cy="19.5" r="4" fill="#2C3948"/>
+  <circle cx="54" cy="19.5" r="4" fill="#2C3948"/>
+  <text x="74" y="24" fill="#8B9BB0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12">mohammadsaeedii / workspace</text>
+  <circle cx="800" cy="19.5" r="3.2" fill="#3FB950"/>
+  <text x="862" y="24" text-anchor="end" fill="#8B9BB0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11">ONLINE</text>
+
+  <text x="36" y="96" fill="#E6EDF3" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="1.6">MOHAMMAD SAEEDI</text>
+  <text x="36" y="124" fill="#67E8F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="14">Software Engineer / Full-Stack</text>
+  <text x="36" y="160" fill="#9AA8B8" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14">Building full-stack products, AI systems</text>
+  <text x="36" y="180" fill="#9AA8B8" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14">and developer tools.</text>
+
+  <rect x="548" y="64" width="296" height="132" rx="8" fill="#11161D" stroke="#243041"/>
+  <rect x="548" y="64" width="296" height="26" rx="8" fill="#0E141B"/>
+  <rect x="548" y="82" width="296" height="8" fill="#0E141B"/>
+  <circle cx="566" cy="77" r="3.2" fill="#2C3948"/>
+  <circle cx="578" cy="77" r="3.2" fill="#2C3948"/>
+  <circle cx="590" cy="77" r="3.2" fill="#2C3948"/>
+  <text x="606" y="81" fill="#6B7C8F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10">identity.ts</text>
+
+  <text x="568" y="114" fill="#6B7C8F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12">const role = </text>
+  <text x="668" y="114" fill="#A78BFA" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12">"engineer"</text>
+  <text x="568" y="136" fill="#6B7C8F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12">const focus = </text>
+  <text x="676" y="136" fill="#67E8F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12">"agents"</text>
+  <text x="568" y="158" fill="#6B7C8F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12">status</text>
+  <text x="624" y="158" fill="#3FB950" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12">building</text>
+  <rect x="692" y="147" width="7" height="13" fill="#67E8F9">
+    <animate attributeName="opacity" values="1;0;1" dur="1.15s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="36" y="236" fill="#5B6B7C" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11">01  BUILDING</text>
+  <text x="156" y="236" fill="#5B6B7C" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11">02  AGENTS</text>
+  <text x="268" y="236" fill="#5B6B7C" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11">03  TOOLS</text>
+</svg>
