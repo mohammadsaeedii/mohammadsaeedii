@@ -55,7 +55,7 @@ Persian · English · Turkish
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg" />
-    <img src="./assets/terminal-dark.svg" alt="Terminal: whoami mohammadsaeedii. Role: Software Engineer, Full-Stack. Focus: AI Agents, Developer Tools, Web Systems. Stack: React, Next, Nest, PostgreSQL, Docker. Status: building things worth shipping." width="880" />
+    <img src="./assets/terminal-dark.svg" alt="Terminal session: Asia/Tehran UTC+3:30. Loop: write, test, review, ship. Review: fail closed, readable PRs. Looking for collaborators, not spectators." width="880" />
   </picture>
 </div>
 
