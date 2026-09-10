@@ -45,7 +45,7 @@
 
 ## ABOUT
 
-Software engineer working across product surfaces, APIs, data, and delivery. Recent work sits at the intersection of **full-stack systems**, **AI agents**, and **developer tools** — architecture that stays explicit, interfaces that stay intentional, and shipping paths that stay boring.
+I build full-stack products — UI, APIs, data, and the path to production. Lately that work is **AI agents** and **developer tools**.
 
 Persian · English · Turkish
 
