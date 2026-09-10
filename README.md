@@ -43,7 +43,7 @@
   </p>
 </div>
 
-## // ABOUT
+## ABOUT
 
 Software engineer working across product surfaces, APIs, data, and delivery. Recent work sits at the intersection of **full-stack systems**, **AI agents**, and **developer tools** — architecture that stays explicit, interfaces that stay intentional, and shipping paths that stay boring.
 
@@ -59,7 +59,7 @@ Persian · English · Turkish
   </picture>
 </div>
 
-## // STACK
+## STACK
 
 Technologies from shipped work — grouped, not a wall.
 
@@ -93,7 +93,7 @@ Technologies from shipped work — grouped, not a wall.
   </picture>
 </p>
 
-## // GITHUB ACTIVITY
+## GITHUB ACTIVITY
 
 <div align="center">
   <table>
@@ -122,7 +122,7 @@ Technologies from shipped work — grouped, not a wall.
   </picture>
 </div>
 
-## // CONTRIBUTION GRAPH
+## CONTRIBUTION GRAPH
 
 Contribution grid rendered as a snake via `Platane/snk`.
 
