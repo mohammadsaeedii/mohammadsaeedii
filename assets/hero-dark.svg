@@ -1,50 +1,70 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="268" viewBox="0 0 880 268" role="img" aria-labelledby="title desc">
-  <title id="title">Mohammad Saeedi - Software Engineer / Full-Stack</title>
-  <desc id="desc">Custom workspace hero for Mohammad Saeedi. Dark developer-lab frame with terminal details.</desc>
-  <defs>
-    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
-      <path d="M 28 0 L 0 0 0 28" fill="none" stroke="#1A2430" stroke-width="1"/>
-    </pattern>
-  </defs>
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="312" viewBox="0 0 880 312" role="img" aria-labelledby="title desc">
+  <title id="title">Hello, I'm Mohammad Saeedi — Full-Stack Engineer</title>
+  <desc id="desc">Building full-stack products, AI systems and developer tools.</desc>
+  <rect x="0.75" y="0.75" width="878.5" height="310.5" rx="16" fill="#0B1220" stroke="#1E2B45"/>
 
-  <rect x="0.75" y="0.75" width="878.5" height="266.5" rx="12" fill="#0B0F14" stroke="#243041"/>
-  <rect x="1" y="38" width="878" height="229" fill="url(#grid)" opacity="0.55"/>
-  <rect x="1" y="38" width="6" height="229" fill="#67E8F9" opacity="0.72"/>
+  <text x="36" y="58" fill="#8B9BB8" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16">Hello, I'm</text>
+  <text x="36" y="100" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="1.8">
+    <tspan fill="#F1F5FF">MOHAMMAD </tspan>
+    <tspan fill="#818CF8">SAEEDI</tspan>
+  </text>
+  <text x="36" y="132" fill="#C5D0E6" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" font-weight="600">Full-Stack Engineer</text>
+  <text x="36" y="168" fill="#8B9BB8" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14">Building full-stack products, AI systems</text>
+  <text x="36" y="188" fill="#8B9BB8" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14">and developer tools.</text>
 
-  <path d="M12 1h856a11 11 0 0 1 11 11v26H1V12A11 11 0 0 1 12 1z" fill="#11161D"/>
-  <line x1="1" y1="38" x2="879" y2="38" stroke="#243041"/>
+  <rect x="36" y="214" width="158" height="40" rx="20" fill="#6366F1"/>
+  <text x="58" y="239" fill="#F8FAFF" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600">View Portfolio</text>
+  <path d="M164 234h10m0 0l-3.5-3.5M174 234l-3.5 3.5" fill="none" stroke="#F8FAFF" stroke-width="1.5" stroke-linecap="round"/>
 
-  <circle cx="22" cy="19.5" r="4" fill="#2C3948"/>
-  <circle cx="38" cy="19.5" r="4" fill="#2C3948"/>
-  <circle cx="54" cy="19.5" r="4" fill="#2C3948"/>
-  <text x="74" y="24" fill="#8B9BB0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12">mohammadsaeedii / workspace</text>
-  <circle cx="800" cy="19.5" r="3.2" fill="#3FB950"/>
-  <text x="862" y="24" text-anchor="end" fill="#8B9BB0" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11">ONLINE</text>
+  <rect x="206" y="214" width="138" height="40" rx="20" fill="none" stroke="#2A3A58"/>
+  <rect x="224" y="228" width="14" height="12" rx="1.5" fill="none" stroke="#C5D0E6" stroke-width="1.4"/>
+  <path d="M224 228l7 7 7-7" fill="none" stroke="#C5D0E6" stroke-width="1.4"/>
+  <text x="246" y="239" fill="#C5D0E6" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600">Contact Me</text>
 
-  <text x="36" y="96" fill="#E6EDF3" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="30" font-weight="700" letter-spacing="1.6">MOHAMMAD SAEEDI</text>
-  <text x="36" y="124" fill="#67E8F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="14">Software Engineer / Full-Stack</text>
-  <text x="36" y="160" fill="#9AA8B8" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14">Building full-stack products, AI systems</text>
-  <text x="36" y="180" fill="#9AA8B8" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14">and developer tools.</text>
+  <path d="M40 272.8c-2 0-3.6 1.6-3.6 3.7 0 1.6 1 3 2.5 3.5.2 0 .2-.1.2-.3v-1.3c-1 .2-1.2-.4-1.2-.4-.2-.4-.4-.5-.4-.5-.4-.2 0-.2 0-.2.4 0 .6.3.6.3.4.6.9.4 1.1.3 0-.2.1-.4.2-.5-.9-.1-1.8-.4-1.8-1.9 0-.4.2-.8.4-1.1 0-.1-.2-.5 0-1 0 0 .3-.1 1.1.4.3-.1.7-.1 1.1-.1.4 0 .8 0 1.1.1.8-.5 1.1-.4 1.1-.4.2.5 0 .9 0 1 .3.3.4.7.4 1.1 0 1.5-.9 1.8-1.8 1.9.1.1.3.4.3.8v2c0 .2.1.3.3.3 1.5-.5 2.5-1.9 2.5-3.5 0-2.1-1.6-3.7-3.6-3.7z" fill="#8B9BB8"/>
+  <text x="56" y="282" fill="#8B9BB8" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">GitHub</text>
+  <rect x="108" y="272" width="14" height="14" rx="2" fill="none" stroke="#8B9BB8" stroke-width="1.3"/>
+  <text x="111.5" y="283" fill="#8B9BB8" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="9" font-weight="700">in</text>
+  <text x="128" y="282" fill="#8B9BB8" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">LinkedIn</text>
+  <rect x="198" y="274" width="14" height="10" rx="1.5" fill="none" stroke="#8B9BB8" stroke-width="1.3"/>
+  <path d="M198 275.5l7 5 7-5" fill="none" stroke="#8B9BB8" stroke-width="1.3"/>
+  <text x="218" y="282" fill="#8B9BB8" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12">Email</text>
 
-  <rect x="548" y="64" width="296" height="132" rx="8" fill="#11161D" stroke="#243041"/>
-  <rect x="548" y="64" width="296" height="26" rx="8" fill="#0E141B"/>
-  <rect x="548" y="82" width="296" height="8" fill="#0E141B"/>
-  <circle cx="566" cy="77" r="3.2" fill="#2C3948"/>
-  <circle cx="578" cy="77" r="3.2" fill="#2C3948"/>
-  <circle cx="590" cy="77" r="3.2" fill="#2C3948"/>
-  <text x="606" y="81" fill="#6B7C8F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="10">identity.ts</text>
+  <rect x="500" y="40" width="344" height="232" rx="12" fill="#10182A" stroke="#1E2B45"/>
+  <rect x="500" y="40" width="344" height="36" rx="12" fill="#0E1628"/>
+  <rect x="500" y="64" width="344" height="12" fill="#0E1628"/>
+  <circle cx="522" cy="58" r="5" fill="#F87171"/>
+  <circle cx="540" cy="58" r="5" fill="#FBBF24"/>
+  <circle cx="558" cy="58" r="5" fill="#4ADE80"/>
+  <text x="820" y="62" text-anchor="end" fill="#5C6D8A" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="16">&gt;_</text>
 
-  <text x="568" y="114" fill="#6B7C8F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12">const role = </text>
-  <text x="668" y="114" fill="#A78BFA" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12">"engineer"</text>
-  <text x="568" y="136" fill="#6B7C8F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12">const focus = </text>
-  <text x="676" y="136" fill="#67E8F9" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12">"agents"</text>
-  <text x="568" y="158" fill="#6B7C8F" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12">status</text>
-  <text x="624" y="158" fill="#3FB950" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="12">building</text>
-  <rect x="692" y="147" width="7" height="13" fill="#67E8F9">
-    <animate attributeName="opacity" values="1;0;1" dur="1.15s" repeatCount="indefinite"/>
-  </rect>
-
-  <text x="36" y="236" fill="#5B6B7C" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11">01  BUILDING</text>
-  <text x="156" y="236" fill="#5B6B7C" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11">02  AGENTS</text>
-  <text x="268" y="236" fill="#5B6B7C" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="11">03  TOOLS</text>
+  <text x="524" y="104" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="13">
+    <tspan fill="#A78BFA">const</tspan>
+    <tspan fill="#E8EEF8"> me </tspan>
+    <tspan fill="#5C6D8A">= {</tspan>
+  </text>
+  <text x="542" y="128" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="13">
+    <tspan fill="#7DD3FC">name</tspan>
+    <tspan fill="#5C6D8A">: </tspan>
+    <tspan fill="#4ADE80">"mohammadsaeedii"</tspan>
+    <tspan fill="#5C6D8A">,</tspan>
+  </text>
+  <text x="542" y="152" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="13">
+    <tspan fill="#7DD3FC">role</tspan>
+    <tspan fill="#5C6D8A">: </tspan>
+    <tspan fill="#4ADE80">"Full-Stack Engineer"</tspan>
+    <tspan fill="#5C6D8A">,</tspan>
+  </text>
+  <text x="542" y="176" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="13">
+    <tspan fill="#7DD3FC">location</tspan>
+    <tspan fill="#5C6D8A">: </tspan>
+    <tspan fill="#4ADE80">"Turkey"</tspan>
+    <tspan fill="#5C6D8A">,</tspan>
+  </text>
+  <text x="542" y="200" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="13">
+    <tspan fill="#7DD3FC">status</tspan>
+    <tspan fill="#5C6D8A">: </tspan>
+    <tspan fill="#4ADE80">"building"</tspan>
+  </text>
+  <text x="524" y="224" fill="#5C6D8A" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace" font-size="13">}</text>
 </svg>

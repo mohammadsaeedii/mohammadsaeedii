@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="168" viewBox="0 0 880 168" role="img" aria-labelledby="title">
+  <title id="title">About</title>
+  <rect x="0.75" y="0.75" width="878.5" height="166.5" rx="16" fill="#F4F6FB" stroke="#D5DCE8"/>
+  <rect x="36" y="32" width="18" height="4" rx="2" fill="#4F46E5"/>
+  <text x="62" y="38" fill="#0F172A" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700">About</text>
+  <text x="36" y="78" fill="#334155" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">I build full-stack products - UI, APIs, data, and the path to production.</text>
+  <text x="36" y="102" fill="#334155" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15">Lately that work is AI agents and developer tools.</text>
+  <circle cx="44" cy="136" r="8" fill="none" stroke="#5B6B85" stroke-width="1.4"/>
+  <path d="M44 128v16M36 136h16M38.5 131.5c2.2 2 3.8 2 11 0M38.5 140.5c2.2-2 3.8-2 11 0" fill="none" stroke="#5B6B85" stroke-width="1.2"/>
+  <text x="60" y="141" fill="#5B6B85" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Persian</text>
+  <circle cx="126" cy="136" r="2" fill="#C9D2E3"/>
+  <text x="138" y="141" fill="#5B6B85" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">English</text>
+  <circle cx="204" cy="136" r="2" fill="#C9D2E3"/>
+  <text x="216" y="141" fill="#5B6B85" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Turkish</text>
+</svg>
