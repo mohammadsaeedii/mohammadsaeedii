@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="56" viewBox="0 0 880 56" role="img" aria-labelledby="title">
-  <title id="title">Stack - technologies I work with</title>
-  <rect x="0.75" y="0.75" width="878.5" height="54.5" rx="14" fill="#F4F6FB" stroke="#D5DCE8"/>
-  <rect x="36" y="26" width="18" height="4" rx="2" fill="#4F46E5"/>
-  <text x="62" y="32" fill="#0F172A" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700">Stack</text>
-  <circle cx="628" cy="28" r="3" fill="#4F46E5"/>
-  <text x="640" y="32" fill="#5B6B85" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Technologies I work with</text>
-</svg>

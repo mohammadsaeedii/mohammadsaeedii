@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="56" viewBox="0 0 880 56" role="img" aria-labelledby="title">
-  <title id="title">GitHub Activity</title>
-  <rect x="0.75" y="0.75" width="878.5" height="54.5" rx="14" fill="#0B1220" stroke="#1E2B45"/>
-  <rect x="28" y="18" width="22" height="18" rx="3" fill="none" stroke="#818CF8" stroke-width="1.5"/>
-  <path d="M32 18v-3h14v3" fill="none" stroke="#818CF8" stroke-width="1.5"/>
-  <text x="62" y="32" fill="#F1F5FF" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700">GitHub Activity</text>
-  <circle cx="638" cy="28" r="3" fill="#4ADE80"/>
-  <text x="650" y="32" fill="#8B9BB8" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Always learning...</text>
-</svg>

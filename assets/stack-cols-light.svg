@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="880" height="40" viewBox="0 0 880 40" role="img" aria-labelledby="title">
-  <title id="title">Stack groups</title>
-  <rect x="0.75" y="0.75" width="878.5" height="38.5" rx="12" fill="#F4F6FB" stroke="#D5DCE8"/>
-  <text x="110" y="26" text-anchor="middle" fill="#5B6B85" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Frontend</text>
-  <text x="330" y="26" text-anchor="middle" fill="#5B6B85" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Backend &amp; Data</text>
-  <text x="550" y="26" text-anchor="middle" fill="#5B6B85" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Infrastructure</text>
-  <text x="770" y="26" text-anchor="middle" fill="#5B6B85" font-family="ui-sans-serif, system-ui, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13">Design &amp; Tools</text>
-</svg>
